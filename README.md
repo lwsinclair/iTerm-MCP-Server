@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rishabkoul-iterm-mcp-server-badge.png)](https://mseep.ai/app/rishabkoul-iterm-mcp-server)
+
 # ITerm MCP Server
 
 A Model Context Protocol (MCP) server implementation for iTerm2 terminal integration. This server allows AI assistants to interact with iTerm2 terminals through the Model Context Protocol.
